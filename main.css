@@ -1,0 +1,108 @@
+
+body {
+	background-color: lightblue;
+
+}
+
+h1 {
+	background: gray;
+	text-align: center;
+}
+
+.list{
+
+	text-align: center;
+	display: inline;
+	color: gray;
+}
+
+h3 {
+
+	text-align: center;
+}
+
+button {
+
+	color: gray;
+}
+
+p {
+	color: gray;
+	text-align: center;
+	display: block;
+}
+
+a {
+	color:white;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+#hbar1 {
+	background: #0874F6;
+	height: 30px;
+	width: 20%;
+	float: left;
+
+}
+#newclass {
+	font-size: 25px;
+}
+
+.outa {
+	
+	padding-left: 15px;
+	float:left;
+}
+
+.multirow {
+	margin-left: 10%;
+
+}
+
+.row-item-movie {
+	max-width: 216px;
+    margin-left: 6%;
+    margin-right: 6%;
+
+    display: inline-block;
+    margin-bottom: 32px;
+    min-width: 123px;
+    font-size: 13px;
+
+}
+
+.container-float-right {
+	float:right;
+}
+
+
+.row-item-image {
+
+}
+
+.row-item-text {
+
+}
+
+.meta-title {
+	/*font-family: Gotham;*/
+	color: black;
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+#directors-sec{
+	background: none;
+	background-image: url("images/patty3.jpg");
+
+}
+
+#ak {
+	background: none;
+}
