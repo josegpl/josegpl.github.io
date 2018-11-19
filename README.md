@@ -1,4 +1,4 @@
 # website-dev
-website development using bootstrap and jquery
+website development from scratch using bootstrap and jquery
 
 under construction
